@@ -1,4 +1,4 @@
-# Amazon Clone
+ # Amazon Clone
 
 This project is a basic HTML and CSS clone of the Amazon website. It includes a header with navigation, a product showcase section, and a footer with useful links, similar to Amazon's user interface. 
 
